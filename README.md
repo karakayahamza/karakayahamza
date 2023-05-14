@@ -13,4 +13,4 @@
   <td><a style="color: white;text-decoration: none;" href="https://developer.android.com/" target="_blank" rel="noopener noreferrer" title="Website">  <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/></a></td>
   <td><a style="color: white;text-decoration: none;" href="https://github.com/karakayahamza" target="_blank" rel="noopener noreferrer" title="Website">  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png"/></a></td>
   <td><a style="color: white;text-decoration: none;" href="https://github.com/karakayahamza" target="_blank" rel="noopener noreferrer" title="Website">  
- <img src="https://www.nicepng.com/png/detail/271-2711435_android-apps-development-by-cloudtrains-technologies-kotlin-logo.png" width="90" height="50"/></a></td>
+ <img src="https://kotlinlang.org/" width="90" height="50"/></a></td>
