@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hamza.
 - 👀 I’m interested in Android Programming. 
-- 🌱 I’m currently learning Android Studio.
  # Social<br />
 <tr>
 <td><a style="color: white;text-decoration: none;" href="https://www.linkedin.com/in/hamza-karakaya-684a101b6/" target="_blank" rel="noopener noreferrer" title="Website"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></img></a></td>
