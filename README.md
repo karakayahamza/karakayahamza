@@ -1,15 +1,59 @@
-- 👋 Hi, I’m Hamza.
-- 👀 I’m interested in Android Programming. 
- # Social<br />
-<tr>
-<td><a style="color: white;text-decoration: none;" href="https://www.linkedin.com/in/hamza-karakaya-684a101b6/" target="_blank" rel="noopener noreferrer" title="Website"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></img></a></td>
-<td><a style="color: white;text-decoration: none;" href="https://www.instagram.com/krkyhmz77/" target="_blank" rel="noopener noreferrer" title="Website"> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></img></a></td>
-<a href="mailto: hamza.karakaya77@outlook.com" style="color: #3a5a5b;text-decoration: none;"title="Mail atmak için tıklayın"><img src="https://img.icons8.com/fluency/48/000000/mail.png"/></img></a>
-</tr>
+# Hi, I'm Hamza Karakaya 👋
 
- # Languages and Tools:<br />
- <td><a style="color: white;text-decoration: none;" href="https://docs.oracle.com/javase/7/docs/technotes/guides/language/index.html" target="_blank" rel="noopener noreferrer" title="Website"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a></td>
-  <td><a style="color: white;text-decoration: none;" href="https://developer.android.com/" target="_blank" rel="noopener noreferrer" title="Website">  <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/></a></td>
-  <td><a style="color: white;text-decoration: none;" href="https://github.com/karakayahamza" target="_blank" rel="noopener noreferrer" title="Website">  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png"/></a></td>
-  <td><a style="color: white;text-decoration: none;" href="https://kotlinlang.org/" target="_blank" rel="noopener noreferrer" title="Website">  
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/120px-Kotlin_Icon.png?20210501145042" witht="50" height="50" /></a></td>
+Android Developer focused on Kotlin and Java. I enjoy building well-structured apps using Clean Architecture and MVVM, and I've had the chance to work on some projects outside the usual scope — like BLE-integrated sport testing tools and SDK libraries for national exam infrastructure.
+
+Currently working at **Performanz ArGe** in İzmir.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+Kotlin · Java
+
+**Android & UI**
+Jetpack Compose · XML Layouts · Material Design 3 · Navigation Component · WindowSizeClass
+
+**Architecture**
+Clean Architecture · MVVM · Repository Pattern · Use Cases
+
+**Async & State**
+Coroutines · Flow · StateFlow · LiveData
+
+**DI & Networking**
+Hilt · Retrofit · RESTful APIs
+
+**Persistence & Cloud**
+Room Database · Firebase Realtime Database · Firebase Authentication
+
+**Hardware**
+Bluetooth Low Energy (BLE) · USB Serial Protocol · SDK Development for Physical Devices
+
+**Tools**
+Git · Android Studio · Agile / Scrum
+
+---
+
+## 💼 What I've Worked On
+
+- **Fenerbahçe Basketball Scouting App** — Real-time athlete evaluation tool used in official selection camps. Reads live data from BLE jump sensors and XBee touch/motion sensors.
+- **Fotosel** — Speed and agility testing app communicating with a custom light gate device over BLE.
+- **Spark** — Testing app for a newer-generation device with distance sensor, LED control, and touch sensor.
+- **ÖZYES SDK** — SDK library for hardware used in ÖSYM's national sports program admissions exam. Supported the ÖSYM team during integration.
+- **GSB Talent Screening** — Contributed to a Ministry of Youth and Sports app that identifies athletic potential in primary school-age children, active across all 81 provinces of Turkey.
+
+---
+
+## 📌 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [SwapEase](https://github.com/karakayahamza/SwapEase) | Peer-to-peer item exchange app | Kotlin · Firebase · MVVM · Coroutines |
+| [WeatherForecast](https://github.com/karakayahamza/WeatherForecast) | Location-based weather app | Kotlin · Compose · Hilt · Retrofit · Flow |
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-karakaya-684a101b6/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza.karakaya77@outlook.com)
