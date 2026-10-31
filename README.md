@@ -52,7 +52,7 @@ My apps have been used in the field at the **ÖSYM ÖZYES exam**, the **Ministry
 | **Data, network & cloud** | Room · SQLDelight · Retrofit · OkHttp · Ktor · REST · Firebase · Supabase · Cloudflare Pages |
 | **Multiplatform** | Kotlin Multiplatform · Compose Multiplatform |
 | **Hardware** | Bluetooth Low Energy (BLE) · USB · SDK development |
-| **Tools & practices** | Android Studio · Xcode · Git · GitHub Actions (CI) · Gradle · Google Play Console · Agile · Refactoring · Claude Code · Codex |
+| **Tools & practices** | Android Studio · Xcode · Git · Gradle · Google Play Console · Agile · Refactoring · Claude Code · Codex |
 
 ## Experience
 
