@@ -71,7 +71,4 @@ My apps have been used in the field at the **ÖSYM ÖZYES exam**, the **Ministry
 | [WeatherForecastCompose](https://github.com/karakayahamza/WeatherForecastCompose) | Weather app (HavaNabzı) with Jetpack Compose, MVVM, Hilt, Retrofit, Flow and Lottie |
 | [NoteAppCompose](https://github.com/karakayahamza/NoteAppCompose) | Note-taking app with Jetpack Compose, Hilt, Room and Navigation Compose |
 | [SwapEase](https://github.com/karakayahamza/SwapEase) | Peer-to-peer item exchange app with Firebase and MVVM |
-| [KotlinForecastMVVM-XML](https://github.com/karakayahamza/KotlinForecastMVVM-XML) | Weather app with MVVM, Retrofit, RxJava and Google Maps |
-| [VisualBookshelfFromGutenbergProject](https://github.com/karakayahamza/VisualBookshelfFromGutenbergProject) | Project Gutenberg library app: search, download and read books |
-
 <p align="center"><sub>Say hi: <a href="mailto:hamza.karakaya77@outlook.com">hamza.karakaya77@outlook.com</a></sub></p>
